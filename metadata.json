@@ -1,0 +1,6 @@
+{
+  "name": "Android No-Fee App Publisher",
+  "description": "Comprehensive guide, alternative store comparator, self-hosting tools, and PWA converter to deploy Android apps without Google Play's $25 fee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
